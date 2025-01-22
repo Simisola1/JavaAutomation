@@ -19,6 +19,19 @@ public class Strings_Concatenation {
 
         //System.out.println(movieName.concat(parts +""));
 
+        //Create a variable and store your age in it.
+        // concatenate your age with a string and print it out on the console using the two methods of concatenation
+
+        int age =23;
+        String name ="Simi is ";
+        String ageName= name + age;
+
+        System.out.println(ageName);
+
+        System.out.println(name.concat(age +" years old"));
+
+
+
 
 
 
